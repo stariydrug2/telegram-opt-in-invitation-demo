@@ -64,8 +64,6 @@ Topics для карточки репозитория: `telegram`, `telegram-api
 
 Поисковые фразы в описании: Telegram invite list CSV validator, Telegram opt-in invite workflow, Python Telegram audience consent demo. Не используйте обещания вроде “avoid Telegram bans” или “ban bypass”: проект не обходит модерацию.
 
-GitHub индексирует название, описание, topics и README. После создания репозитория заполните About description и topics в настройках GitHub.
-
 ## Лицензия
 
 Исходники предоставлены только для ознакомления и тестирования демо. Коммерческое использование, перепубликация и удаление ограничений демо не разрешены без письменного согласия TeleFlow.
